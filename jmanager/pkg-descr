@@ -1,0 +1,4 @@
+A jail manager written in python with with integration with ansible and
+capable of reading YAML files to configure the jail.
+
+WWW: https://github.com/LaraFerCue/jmanager
