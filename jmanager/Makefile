@@ -9,7 +9,7 @@ COMMENT=	A python based jail manager with ansible integration
 
 USE_GITHUB=	yes
 GH_ACCOUNT=	LaraFerCue
-GH_TAGNAME=	5931441
+GH_TAGNAME=	3d4400f
 
 USES=		python:-3.6
 USE_PYTHON=	distutils autoplist
